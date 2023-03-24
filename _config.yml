@@ -1,5 +1,4 @@
 theme: minima
 minima:
   skin: dark
-
 remote_theme: jekyll/minima
