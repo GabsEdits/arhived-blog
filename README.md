@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/npm/twemoji@11.3.0/2/svg/1f33f.svg" width="64">
+  <img src="https://cdn.jsdelivr.net/npm/twemoji@11.3.0/2/svg/1f340.svg" width="64">
   <h1 align="center"> My Blogs</h1>
   <p align="center">This is my website were you are going to find my blogs.</p>
   <sup>The blogs, are fully connected with my main website.</sup>
