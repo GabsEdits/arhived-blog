@@ -1,3 +1,9 @@
+author:
+  name: Gabs
+  email: "gaba@duck.com"
 theme: minima
 minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/GabsEdits/" }
   skin: dark
+
