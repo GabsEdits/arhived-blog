@@ -3,6 +3,8 @@ title: "Bye Bye Twitter"
 date: 2023-03-24
 
 ---
+![Free the bird!](https://gabsedits.github.io/blog/bluebird.png "The bird is free!")
+
 I want to share with you why I left Twitter. When I first signed up for Twitter, it was because I was a big fan of gaming. I loved playing games and connecting with other gamers online. Twitter was a great way for me to share my experiences, get updates on the latest games and events, and connect with other like-minded individuals.
 
 However, as time passed, my interests changed. I found myself spending less time playing games and more time doing coding, other hobbies and interests. At the same time, I noticed that my engagement on Twitter had started to decline. I wasn't finding the same level of excitement and enjoyment that I once did.
